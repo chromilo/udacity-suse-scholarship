@@ -1,10 +1,27 @@
 # udacity-suse-scholarship
-These are my notes for the 2 month challenge on Cloud Native Application Architecture course
+These are my notes for the 2 month challenge on Cloud Native Application Architecture course. The format of the daily check-ins must follow this format:
+1. What did I work on yesterday?
+2. What will I work on today?
+3. What issues are blocking my progress?
 
+For the study teams, we post using this format:
+1. What did your Study Team work on or participate in last week?
+2. What are your plans for this coming week? 
+3. Are you facing any challenges or blockers? 
+
+---
 Day 10: 
 1.	Yesterday I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
 2.  Today I installed Kind cluster in Windows and K3s inside the VirtualBox VM running Linux, completing lesson 3.16. 
 3.	I couldn't connect to my Linux VM from my Windows 10 host to be able to test launching the apps from browser. I bridged the VM network adapter and can ping the VM guest from my Windows 10 host but I am not able to get to ports 6111 or 6112 ports. I got it to work with Kind cluster installed to my Windows 10 computer so I can move forward.
+
+#st_canada
+1. Our study team met for an icebreaker session June 18 at 3:30pm Pacific. Meeting minutes are here. A poll was sent out yesterday asking for status on lessons. This week a member started with weekly quiz challenges for the group.
+2. Update the tracking spreadsheet with everyone's updates. Continue to locate a guest speaker with cloud native experience.
+3. There are two scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
+
+Hello, here are the meeting minutes from our icebreaker meetup earlier today. Next meeting is Friday June 25, same place same time. Hope to see you then.
+Please help fill this sheet out as you progress through your lessons so we can report on our progress once a week to community managers.
 
 Day 9: 
 1.	Yesterday I made it to lesson 3.8, publishing to DockerHub registry the two containers from the exercise. 
