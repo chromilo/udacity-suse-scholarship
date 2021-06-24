@@ -17,7 +17,7 @@ Day 10:
 
 #st_canada
 1. Our study team met for an icebreaker session June 18 at 3:30pm Pacific. Meeting minutes are here. A poll was sent out yesterday asking for status on lessons. This week a member started with weekly quiz challenges for the group.
-2. Update the tracking spreadsheet with everyone's updates. Continue to locate a guest speaker with cloud native experience.
+2. Update the tracking spreadsheet with everyone's updates and finish lesson 2 for everyone this week. Continue to locate a guest speaker with cloud native experience.
 3. There are two scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
 
 Hello, here are the meeting minutes from our icebreaker meetup earlier today. Next meeting is Friday June 25, same place same time. Hope to see you then.
