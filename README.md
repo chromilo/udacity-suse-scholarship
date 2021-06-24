@@ -1,6 +1,11 @@
 # udacity-suse-scholarship
 These are my notes for the 2 month challenge on Cloud Native Application Architecture course
 
+Day 10: 
+1.	Yesterday I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
+2.  Today I installed Kind cluster in Windows and K3s inside the VirtualBox VM running Linux, completing lesson 3.16. 
+3.	I couldn't connect to my Linux VM from my Windows 10 host to be able to test launching the apps from browser. I bridged the VM network adapter and can ping the VM guest from my Windows 10 host but I am not able to get to ports 6111 or 6112 ports. I got it to work with Kind cluster installed to my Windows 10 computer so I can move forward.
+
 Day 9: 
 1.	Yesterday I made it to lesson 3.8, publishing to DockerHub registry the two containers from the exercise. 
 2.  Today I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
