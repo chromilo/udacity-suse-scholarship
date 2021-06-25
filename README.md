@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 11:
+1.  Yesterday I made it to lesson 3.16, spending tons of time troubleshooting networking between vm and host.
+2.  Today I started with lesson 3.17. Working to finish the exercise. Also keeping blog of my daily scrum tasks
+3.  I got sick with the fever after taking my second moderna shot. Hope to feel better tomorrow.
+
 Day 10: 
 1.	Yesterday I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
 2.  Today I installed Kind cluster in Windows and K3s inside the VirtualBox VM running Linux, completing lesson 3.16. 
