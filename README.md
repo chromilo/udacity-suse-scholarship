@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 13:
+1.  Yesterday I made it to lesson 3.23. Held our weekly meetup with #st_canada. Meeting minutes are here.
+2.  Today I took some time off. Updated my blog of daily scrum tasks.
+3.  Received AWS ML scholarship starting on Monday June 28, 2021.
+
 Day 12:
 1.  Yesterday I made it to lesson 3.17. Also got the fever from my second moderna shot.
 2.  Today I started with lesson 3.22. Working to finish lesson 3.23 exercise. Had our weekly meetup with #st_canada and they helped resolve my issue accessing port 6112 on VM from host. I just needed to add "--address 0.0.0.0" in my port-forward command to have container listen on all ports. Also keeping blog of my daily scrum tasks. 
