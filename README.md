@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 14:
+1.  Yesterday it was too hot to do any work so I watched some EUFA Euro2020 soccer between France and Portugal. Great game.
+2.  Today I finished lesson 3. I jnew taking some time at church mass for wellness would give me the drive to push through. Posted my updates to my blog.
+3.  Classes for AWS ML scholarship start on Monday June 28, 2021 so don't know what to do here...
+
 Day 13:
 1.  Yesterday I made it to lesson 3.23. Held our weekly meetup with #st_canada. Meeting minutes are here.
 2.  Today I took some time off. Updated my blog of daily scrum tasks.
