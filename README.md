@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
+Day 15:
+1.  Yesterday I finished lesson 3.
+2.  Today I finished lesson 4.3. Posted my updates to my Github blog. Submitted student team group competition form.
+3.  Orientation for AWS ML scholarship start on Tuesday June 29, 2021 so will figure out after that what my blockers are. Plus it is too hot to study right now.
+
 Day 14:
 1.  Yesterday it was too hot to do any work so I watched some EUFA Euro2020 soccer between France and Portugal. Great game.
 2.  Today I finished lesson 3. I jnew taking some time at church mass for wellness would give me the drive to push through. Posted my updates to my blog.
