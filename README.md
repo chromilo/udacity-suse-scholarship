@@ -12,12 +12,12 @@ For the study teams, we post using this format:
 ---
 Day 16:
 1.  Yesterday I finished lesson 4.3.
-2.  Today I finished lesson 4.3. Posted my updates to my Github blog. Submitted student team group competition form.
+2.  Today I finished lesson 4.3. Posted my updates to my Github blog. 
 3.  Started looking at AWS ML classroom. Oh boy here we go.
 
 Day 15:
 1.  Yesterday I finished lesson 3.
-2.  Today I made it to lesson 4.5 exercises. Posted my updates to my Github blog. Posted my updates to my Github blog.
+2.  Today I made it to lesson 4.5 exercises. Submitted student team group competition form. Posted my updates to my Github blog. 
 3.  Orientation for AWS ML scholarship start on Tuesday June 29, 2021 so will figure out after that what my blockers are. Plus it is too hot to study right now.
 
 Day 14:
