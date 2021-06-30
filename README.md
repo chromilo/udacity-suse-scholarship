@@ -10,6 +10,7 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
 Day 16:
 1.  Yesterday I finished lesson 3.
 2.  Today I made it to lesson 4.5 exercises. Posted my updates to my Github blog. Submitted student team group competition form.
