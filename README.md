@@ -10,9 +10,14 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 17:
+1.  Yesterday I finished lesson 4.5.
+2.  Today I finished lesson 4.6 working on 4.7 still. Posted my updates to my Github blog. 
+3.   SUSE Cloud Application Platform is deprecated so what can I use instead for the upcoming exercise?
+
 Day 16:
-1.  Yesterday I finished lesson 4.3.
-2.  Today I finished lesson 4.3. Posted my updates to my Github blog. 
+1.  Yesterday I finished lesson 4.5.
+2.  Today I finished lesson 4.7. Posted my updates to my Github blog. 
 3.  Started looking at AWS ML classroom. Oh boy here we go.
 
 Day 15:
