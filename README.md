@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 18:
+1.  Yesterday I finished lesson 4.6.
+2.  Today I celebrated Canada Day by going biking with family. Posted my updates to my Github blog. 
+3.  Procrastination.
+
 Day 17:
 1.  Yesterday I finished lesson 4.5.
 2.  Today I finished lesson 4.6 working on 4.7 still. Posted my updates to my Github blog. 
