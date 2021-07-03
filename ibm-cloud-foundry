@@ -1,0 +1,21 @@
+## Overview 
+These are the steps I followed with help from #st_canada scholars @NikitaBaranov @Danilo.Britto.Scholar
+
+## Contributors: 
+
+1. Create an IBM Cloud account https://cloud.ibm.com/ for yourself.
+2. Login to the dashboard and create and public Cloud Foundry environment https://cloud.ibm.com/cloudfoundry/public. Name the application python-helloworld-chromilo.
+3. After the CF sample app is created, a set of instructions appear asking you to install the prerequisites like IBM Cloud CLI and creating some config files.
+4. Clone the python-helloworld exercise repo.
+5. Create a manifest.yaml file in your python-helloworld folder with the following text copied from the IBM Cloud Foundry instructions screen. Change the 'name' to be python-helloworld-chromilo.
+
+  applications:
+  - name: pytone-helloworld-chromilo
+    random-route: true
+    memory: 128M
+    
+6. Create startup file "Procfile" with one line text "web: python app.py" in the save python-helloworld folder.
+7. Download IBM Cloud CLI https://www.ibm.com/cloud/cli, install and reboot your computer.
+8. 
+
+https://python-helloworld-chromilo-quiet-oribi-kw.mybluemix.net/
