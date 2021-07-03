@@ -27,6 +27,5 @@ if __name__ == "__main__":
 10. Login to IBM Cloud by typing "ic login". Enter your email and password to login.
 11. Change folder path to cloned repo containing python-helloworld exercise.
 12. Push the changes to your IBM Cloud Foundry deployed application "ibmcloud cf push".
-13. After a successful push, you can check the 
-
-https://python-helloworld-chromilo-quiet-oribi-kw.mybluemix.net/
+13. After a cf push, you can check the logs via "ibmcloud cf log" or from the IBM Cloud dashboard.
+14. Launch https://python-helloworld-chromilo-quiet-oribi-kw.mybluemix.net/
