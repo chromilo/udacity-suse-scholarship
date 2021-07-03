@@ -13,7 +13,7 @@ For the study teams, we post using this format:
 Day 19:
 1.  Yesterday I celebrated Canada Day so skipped lessons.
 2.  Today I was able to get to lesson 4.9 and signed up for an IBM Cloud Foundry account. Working on finishing the exercise and the demo. Posted my updates to my Github blog.
-3.  Using IBM Cloud Foundry interface, I don't know how to get to create the python-helloworld application ment using public Github as shown in demo. Help!
+3.  Using IBM Cloud Foundry interface, I don't know how to create the python-helloworld application using public Github as shown in demo. Help!
 
 Day 18:
 1.  Yesterday I finished lesson 4.6.
