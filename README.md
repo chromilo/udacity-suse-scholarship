@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 20:
+1.  Yesterday I completed lesson 4.9.
+2.  Today I got to lesson 4.11 and was able to complete the demo exercise deploying python-helloworld to IBM Cloud Foundry. I also finished the SUSE survey and my Student Story. Posted my updates to my Github blog.
+3.  I spent some time in AWS ML challenge, now at lesson 1. I also have to spend some time with Udemy ACloudGuru AWS course, and purchase Okta zero-to-hero course. More time vortex.
+
 Day 19:
 1.  Yesterday I celebrated Canada Day so skipped lessons.
 2.  Today I was able to get to lesson 4.9 and signed up for an IBM Cloud Foundry account. Working on finishing the exercise and the demo. Posted my updates to my Github blog.
@@ -23,7 +28,20 @@ Day 18:
 Day 17:
 1.  Yesterday I finished lesson 4.5.
 2.  Today I finished lesson 4.6 working on 4.7 still. Posted my updates to my Github blog. 
-3.   SUSE Cloud Application Platform is deprecated so what can I use instead for the upcoming exercise?
+3.  SUSE Cloud Application Platform is deprecated so what can I use instead for the upcoming exercise?
+
+#st_canada
+1. What did your Study Team work on or participate in last week?
+A member posted a quiz to complete a couple of questions for group to answer.
+A few members met on Friday June 25 to help with lesson 3 blocks.
+Easypoll finished on Monday indicating 7/17 completion of lesson 3.
+2. What are your plans for this coming week? 
+Meet again Friday July 2 at 3:30pm PST with members.
+Started new easypoll that ends Sunday. Resubmit study team competition form if poll improves on Sunday.
+Grab ideas from members via padlet or remind members of upcoming deadlines.
+3. Are you facing any challenges or blockers? 
+17/52 completed poll so need more interaction.
+Slack does not notify members when meetings come up. No access to @channel or @here.
 
 Day 16:
 1.  Yesterday I finished lesson 4.5.
@@ -56,9 +74,9 @@ Day 11:
 3.  I got sick with the fever after taking my second moderna shot. Hope to feel better tomorrow.
 
 Day 10: 
-1.	Yesterday I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
+1.  Yesterday I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
 2.  Today I installed Kind cluster in Windows and K3s inside the VirtualBox VM running Linux, completing lesson 3.16. 
-3.	I couldn't connect to my Linux VM from my Windows 10 host to be able to test launching the apps from browser. I bridged the VM network adapter and can ping the VM guest from my Windows 10 host but I am not able to get to ports 6111 or 6112 ports. I got it to work with Kind cluster installed to my Windows 10 computer so I can move forward.
+3.  I couldn't connect to my Linux VM from my Windows 10 host to be able to test launching the apps from browser. I bridged the VM network adapter and can ping the VM guest from my Windows 10 host but I am not able to get to ports 6111 or 6112 ports. I got it to work with Kind cluster installed to my Windows 10 computer so I can move forward.
 
 #st_canada
 1. Our study team met for an icebreaker session June 18 at 3:30pm Pacific. Meeting minutes are here. A poll was sent out yesterday asking for status on lessons. This week a member started with weekly quiz challenges for the group.
@@ -66,14 +84,14 @@ Day 10:
 3. There are two scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
 
 Day 9: 
-1.	Yesterday I made it to lesson 3.8, publishing to DockerHub registry the two containers from the exercise. 
+1.  Yesterday I made it to lesson 3.8, publishing to DockerHub registry the two containers from the exercise. 
 2.  Today I made it to lesson 3.12 KuberConfig walkthrough, working to install Kind cluster.
-3.	I need to prioritize this challenge, an existing AI nanodegree, and two other certifications I need to pass before fall 2021 semester starts at Georgia Tech.
+3.  I need to prioritize this challenge, an existing AI nanodegree, and two other certifications I need to pass before fall 2021 semester starts at Georgia Tech.
 
 Day 8:
-1.	Yesterday I did not get to look at lessons. 
+1.  Yesterday I did not get to look at lessons. 
 2.  I completed submitting both exercises for lesson 3 to DockerHub, all the way to concept 8.
-3.	I need to prioritize this challenge, an existing AI nanodegree, and two other certifications I need to pass before fall 2021 semester starts at Georgia Tech.
+3.  I need to prioritize this challenge, an existing AI nanodegree, and two other certifications I need to pass before fall 2021 semester starts at Georgia Tech.
 
 Day 7:
 1. Yesterday I watched lessons 3 video.
