@@ -2,6 +2,7 @@
 These are the steps I followed with help from #st_canada scholars @NikitaBaranov @Danilo.Britto.Scholar
 
 ## Contributors: 
+Chromilo
 
 1. Create an IBM Cloud account https://cloud.ibm.com/ for yourself.
 2. Login to the dashboard and create and public Cloud Foundry environment https://cloud.ibm.com/cloudfoundry/public. Name the application python-helloworld-chromilo.
