@@ -10,6 +10,16 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 22:
+1.  Yesterday I took some time off to procrastinate.
+2.  Today I finished all of lesson 4, hurrah! Posted my updates to my Github blog.
+3.  Spent a bit of time counting #st_canada scholars who are not in the #daily_scrum wall, or on the wall but without stars beside their names. I also spent some time working on career services project GitHub review. A lot of time spent outside of actual lessons.
+
+Day 21:
+1.  Yesterday I completed lesson 4.11.
+2.  Today I took some time off from lessons to take my kids to their first vaccine shot. Posted my updates to my Github blog.
+3.  Procrastination.
+
 Day 20:
 1.  Yesterday I completed lesson 4.9.
 2.  Today I got to lesson 4.11 and was able to complete the demo exercise deploying python-helloworld to IBM Cloud Foundry. I also finished the SUSE survey and my Student Story. Posted my updates to my Github blog.
