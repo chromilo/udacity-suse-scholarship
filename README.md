@@ -10,6 +10,15 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
+#reflect
+1. How are you doing so far in this course and community in relation to your original motivation?
+Since the start, I have been all over the place, excited to drink in all these scholarships and certifications (AI Program Manager ND, AWS ML challenge, AWS recertification, Okta certification) before fall 2021 semester starts. Nothing has changed, I am still all over the place, still excitedly drinking in all the learnings.
+2. Are you on track/what you expected and hoped for? If not, what can you do to get there?
+Not where I wanted to be. Slack seems to contribute to my procrastination and don't know how to get around that. I need to do my own daily_scrum for the other items I am trying to complete outside of this foundations course but because I cannot post here, those are falling behind. With regards to this course, I am ahead of schedule.
+3. What has helped you succeed and stay motivated/succeed thus far?
+My study team #st_canada has provided the hand-holding needed to get past demo exercises from lesson 3 and 4. Priceless to have such talented scholars there.
+
 Day 22:
 1.  Yesterday I took some time off to procrastinate.
 2.  Today I finished all of lesson 4, hurrah! Posted my updates to my Github blog.
