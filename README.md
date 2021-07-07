@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
+#st_canada
+1. Our study team met for our weekly session July 3 at 10:00am Pacific (rescheduled). Meeting minutes are here. A final poll was sent out asking for status on lessons. 
+2. This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. 
+3. There are three scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
+
 Day 23 (sprint 2):
 1.  Yesterday I finished all of lesson 4.
 2.  Today I finished lesson 4.2. Posted my updates to my Github blog.
