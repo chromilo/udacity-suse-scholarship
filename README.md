@@ -10,7 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
-
+Day 23 (sprint 2):
+1.  Yesterday I finished all of lesson 4.
+2.  Today I finished lesson 4.2. Posted my updates to my Github blog.
+3.  Work is a little busy today.
+  
 #reflect
 1. How are you doing so far in this course and community in relation to your original motivation?
 Since the start, I have been all over the place, excited to drink in all these scholarships and certifications (AI Program Manager ND, AWS ML challenge, AWS recertification, Okta certification) before fall 2021 semester starts. Nothing has changed, I am still all over the place, still excitedly drinking in all the learnings.
@@ -19,7 +23,7 @@ Not where I wanted to be. Slack seems to contribute to my procrastination and do
 3. What has helped you succeed and stay motivated/succeed thus far?
 My study team #st_canada has provided the hand-holding needed to get past demo exercises from lesson 3 and 4. Priceless to have such talented scholars there.
 
-Day 22:
+Day 22 (sprint 2):
 1.  Yesterday I took some time off to procrastinate.
 2.  Today I finished all of lesson 4, hurrah! Posted my updates to my Github blog.
 3.  Spent a bit of time counting #st_canada scholars who are not in the #daily_scrum wall, or on the wall but without stars beside their names. I also spent some time working on career services project GitHub review. A lot of time spent outside of actual lessons.
