@@ -13,8 +13,8 @@ For the study teams, we post using this format:
 
 #st_canada
 1. Our study team met for our weekly session July 3 at 10:00am Pacific (rescheduled). Meeting minutes are here. A final poll was sent out asking for status on lessons. 
-2. This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. 
-3. There are three scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
+2. This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. We found that 17/52 did not fill out the sprint 1 commitment form; 14/35 have not filled in the sprint 1 completion form so they probably have not finished lesson 3; which means 21/35 or 60% have completed lesson 3.
+3. @James has issues myn Ng   There are three scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
 
 Day 23 (sprint 2):
 1.  Yesterday I finished all of lesson 4.
