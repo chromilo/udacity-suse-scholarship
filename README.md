@@ -10,11 +10,18 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 24 (sprint 2):
+1.  Yesterday I finished lesson 4.2.
+2.  Today I started with lesson 4.3 videos. Posted my updates to my Github blog.
+3.  Slack is such a great place to slack off unfortunately for me. 
 
 #st_canada
-1. Our study team met for our weekly session July 3 at 10:00am Pacific (rescheduled). Meeting minutes are here. A final poll was sent out asking for status on lessons. 
-2. This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. We found that 17/52 did not fill out the sprint 1 commitment form; 14/35 have not filled in the sprint 1 completion form so they probably have not finished lesson 3; which means 21/35 or 60% have completed lesson 3.
-3. @James has issues doing the Docker exercise because his laptop PC doesn't support virtualization technology. @moor and @Raphael also said they had some issues but haven't heard back.
+1. What did your Study Team work on or participate in last week?
+Our study team met for our weekly session July 3 at 10:00am Pacific (rescheduled). Meeting minutes are here. A final poll was sent out asking for status on lessons. 
+2. What are your plans for this coming week? 
+This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. We found that 17/52 did not fill out the sprint 1 commitment form; 14/35 have not filled in the sprint 1 completion form so they probably have not finished lesson 3; which means 21/35 or 60% have completed lesson 3.
+3. Are you facing any challenges or blockers? 
+@James has issues doing the Docker exercise because his laptop PC doesn't support virtualization technology. @moor and @Raphael also said they had some issues but haven't heard back.
 
 Day 23 (sprint 2):
 1.  Yesterday I finished all of lesson 4.
