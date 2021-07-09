@@ -10,9 +10,14 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 25 (sprint 2):
+1.  Yesterday I finished lesson 5.3.
+2.  Today I completed lesson 5.9 on CD Fundamentals. Posted my updates to my Github blog.
+3.  All over the place with other challenges and studies.
+
 Day 24 (sprint 2):
-1.  Yesterday I finished lesson 4.2.
-2.  Today I started with lesson 4.3 videos. Posted my updates to my Github blog.
+1.  Yesterday I finished lesson 5.2.
+2.  Today I started with lesson 5.3 videos. Posted my updates to my Github blog.
 3.  Slack is such a great place to slack off unfortunately for me. 
 
 #st_canada
@@ -25,7 +30,7 @@ This week we Updated the tracking spreadsheet matching team members to sprint 1 
 
 Day 23 (sprint 2):
 1.  Yesterday I finished all of lesson 4.
-2.  Today I finished lesson 4.2. Posted my updates to my Github blog.
+2.  Today I finished lesson 5.2. Posted my updates to my Github blog.
 3.  Work is a little busy today.
   
 #reflect
