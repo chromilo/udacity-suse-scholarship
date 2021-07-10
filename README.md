@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 26 (sprint 2):
+1.  Yesterday I finished lesson 5.9.
+2.  Today I completed lesson 5.13, at ArgoCD solution. Posted my updates to my Github blog.
+3.  Unable to sync nginx-alpine app via ArgoCD. Getting sync error.
+
 Day 25 (sprint 2):
 1.  Yesterday I finished lesson 5.3.
 2.  Today I completed lesson 5.9 on CD Fundamentals. Posted my updates to my Github blog.
