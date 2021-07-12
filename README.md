@@ -10,6 +10,13 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
+Day 28 (sprint 2):
+
+1.  Yesterday I was at lesson 5.13.
+2.  Today I finished lesson 5.15. Posted my updates to my Github blog.
+3.  Procrastination by working on my covert letter project review.
+
 Day 27 (sprint 2):
 1.  Yesterday I started with lesson 5.12. I was getting sync error "field is immutable" with lesson 5.13.
 2.  Today I fixed lesson 5.13 with help from @Rohinton.Kazak. I am now able to sync nginx-alpine app via ArgoCD. Posted my updates to my Github blog.
