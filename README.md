@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 Day 29 (sprint 2):
 1.  Yesterday I finished lesson 5.15.
-2.  Today I completed all of lesson 5 and quickly went over all lessons to ensure I answered all quizes. Posted my updates to my Github blog.
+2.  Today I completed all of lesson 5 and quickly went over all lessons to ensure I answered all quizzes. Posted my updates to my Github blog.
 3.  I received an email alert from Gitguardian saying I may have exposed a an RSA Private Key. I just deleted it from my repo. Do you use GitGuardian to watch your repos?
 
 Day 28 (sprint 2):
