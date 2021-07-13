@@ -18,7 +18,7 @@ Day 29 (sprint 2):
 Day 28 (sprint 2):
 1.  Yesterday I was at lesson 5.13.
 2.  Today I finished lesson 5.15. Posted my updates to my Github blog.
-3.  Procrastination by working on my covert letter project review.
+3.  Procrastination by working on my cover letter project review.
 
 Day 27 (sprint 2):
 1.  Yesterday I started with lesson 5.12. I was getting sync error "field is immutable" with lesson 5.13.
