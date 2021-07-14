@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 30 (sprint 2):
+1.  Yesterday I finished lesson 5. Yay!
+2.  Today I submitted my cover letter career services projects. I submitted an event to host for SJ to organizers, waiting for approval. Posted my updates to my Github blog.
+3.  None.
+
 Day 29 (sprint 2):
 1.  Yesterday I finished lesson 5.15.
 2.  Today I completed all of lesson 5 and quickly went over all lessons to ensure I answered all quizzes. Posted my updates to my Github blog.
