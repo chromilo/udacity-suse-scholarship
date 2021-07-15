@@ -16,13 +16,11 @@ Day 31:
 3.  None.
 
 #st_canada
-1. What did your Study Team work on or participate in last week?
-Our study team met for our weekly session July 9 at 3:30pm Pacific. Meeting minutes are here. An additional meetup was scheduled over the weekend for a 1:1 to help @Chromilo.Amin with lesson 5.12 exercise. 
-2. What are your plans for this coming week? 
-Tally up the scholars on sprint 1 and sprint 2 walls. We found the following stats:
-26/54 have submitted Sprint 2 commitment form so far. 
-28/54 (51.8%) have NOT submitted the Sprint 2 commitment form.
-3. Are you facing any challenges or blockers? 
+1.  What did your Study Team work on or participate in last week?  
+Our study team met for our weekly session July 9 at 3:30pm Pacific. Meeting minutes are here. An additional meetup was scheduled over the weekend for a 1:1 help with lesson 5.12 exercise.
+2.   What are your plans for this coming week? 
+Tally up the scholars on sprint 1 and sprint 2 walls. Our tracking spreadsheet is here. We found the following stats: 26/54 have submitted Sprint 2 commitment form so far. 28/54 (51.8%) have NOT submitted the Sprint 2 commitment form. Meet with more members this Friday July 16 to get updated stats.
+3.   Are you facing any challenges or blockers? 
 18/54 scholars most likely still not done with lesson 3 yet. Encouraged our members to skip lesson 3 and keep moving to 4 and 5 if stuck. We can always go back to lesson 3. 
 
 Day 30 (sprint 2):
