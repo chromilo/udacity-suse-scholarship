@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 32:
+1. Yesterday I submitted my AI capstone project and got 7 wrong.
+2. Today I fixed 2/7. I submitted 3 quiz items to @James for our group #st_canada to get involved in a community quiz event. Posted my updates to my Github blog.
+3. A bit anxious with some reorganizations happening at work recently. Losing energy a bit.
+
 Day 31:
 1.  Yesterday I submitted all Udacity career services project perks.
 2.  Today I submitted my AI capstone project and received feedback from Udacity mentors, with 7 points to revisit. Prepared poster for Game Night for study jam and other event I am co-hosting with @Rohit.Roy.Chowdhury. Posted my updates to my Github blog.
