@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 34:
+1.  Yesterday I resubmitted my AI capstone project.  
+2.  Today I graduated from my AI Program Manager nanodegree and received certificate https://confirm.udacity.com/YKACEDTT. Attended some events for Study Jam 1.0. Co-host Bingo Baker event with @Rohit.Roy.Chowdhury. Host Jackbox game night later today July 17, 2021 from 10-11pm Pacific. Posted my updates to my Github blog.
+3.  None.
+
 Day 33:
 1.  Yesterday I submitted submitted 3 quizzes with answers to @James for a quiz event.  
 2.  Today I resubmitted my AI capstone project. We also met for our weekly meetup with #st_canada. Submitted my t-shirt logo to @ElizabethWotawa. Finalized and posted our Bingo Baker study jam event with @Rohit.Roy.Chowdhury. Posted my updates to my Github blog.
