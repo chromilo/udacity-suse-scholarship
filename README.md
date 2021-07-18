@@ -12,12 +12,28 @@ For the study teams, we post using this format:
 ---
 Day 34:
 1.  Yesterday I resubmitted my AI capstone project.
-2.  Today I graduated from my AI Program Manager nanodegree and received certificate that I worked hard to get close to 7 months. Attended some events for Study Jam 1.0. Co-host Bingo Baker event with @Rohit.Roy.Chowdhury. Host Jackbox game night later today July 17, 2021 from 10-11pm Pacific in the #wellness channel. Posted my updates to my Github blog.
+2.  Today I graduated from my AI Program Manager nanodegree and received certificate that I worked hard to get close to 7 months. 
+![image](https://user-images.githubusercontent.com/75153964/126076980-3ceaa06d-f797-43cd-9ee8-fbf98fe2d30a.png)
+
+Attended some events for Study Jam 1.0. Co-host Bingo Baker event with @Rohit.Roy.Chowdhury. Host Jackbox game night later today July 17, 2021 from 10-11pm Pacific in the #wellness channel. 
+
+Bingo Baker
+
+![image](https://user-images.githubusercontent.com/75153964/126076865-e92bc9b1-feaa-4a7d-96bd-9c5ced5cbf8d.png)
+
+Game Night
+
+![image](https://user-images.githubusercontent.com/75153964/126076882-967741df-758f-4095-b565-9caaced156fb.png)
+
+Posted my updates to my Github blog.
+
 3.  None.
 
 Day 33:
 1.  Yesterday I submitted submitted 3 quizzes with answers to @James for a quiz event.  
 2.  Today I resubmitted my AI capstone project. We also met for our weekly meetup with #st_canada. Submitted my t-shirt logo to @ElizabethWotawa. Finalized and posted our Bingo Baker study jam event with @Rohit.Roy.Chowdhury. Posted my updates to my Github blog.
+https://github.com/chromilo/udacity_suse_project_tshirt/blob/master/tshirt_designs/cicd-chromilo.amin.png
+![image](https://user-images.githubusercontent.com/75153964/126076929-66779d92-d380-4b89-8061-e94fac813dc2.png)
 3.  None.
  
 Day 32:
