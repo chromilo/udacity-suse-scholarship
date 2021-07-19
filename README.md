@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 35:
+1.  Yesterday I graduated from my AI Program Manager.
+2.  Today I attended docker compose workshop by @badr.ibrahim. I finished AWS ML lesson 2.2. Posted my updates to My GitHub repo.
+3.  None.
+
 Day 34:
 1.  Yesterday I resubmitted my AI capstone project.
 2.  Today I graduated from my AI Program Manager nanodegree and received certificate that I worked hard to get close to 7 months. 
