@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 36:
+1.  Yesterday I attended docker compose workshop by @badr.ibrahim. I finished AWS ML lesson 2.2
+2.  Today I completed the sprint 2 completion form, filled out the Study Buddy form, filled out the Blogathon form, and I finished AWS ML lesson 2.4. Posted my updates to My GitHub repo.
+3.  None.
+
 Day 35:
 1.  Yesterday I graduated from my AI Program Manager.
 2.  Today I attended docker compose workshop by @badr.ibrahim. I finished AWS ML lesson 2.2. Posted my updates to My GitHub repo.
