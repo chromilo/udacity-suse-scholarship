@@ -11,6 +11,25 @@ For the study teams, we post using this format:
 
 ---
 Day 36:
+1.  Yesterday I finished AWS ML lesson 2.4 and started lesson 3 exercises again but on Raspberry Pi 3.
+2.  Today I updated our #st_canada tracking spreadsheet. Fixed issue installing and running k3s on RPi. Posted my updates to My GitHub repo.
+- modify /boot/cmdline.txt to add cgroup_enable=cpuset cgroup_enable=memory cgroup_memory=1
+- reboot
+- Load version 0.9.1 as that is compatible with RPi 3+, by running "curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION=v0.9.1 sh"
+4.  None.
+
+#st_canada
+1.  What did your Study Team work on or participate in last week? 
+Our study team met for our weekly session July 16 at 3:30pm Pacific. Meeting minutes are here. We participated in Study Jam over the weekend (I recognized a few from our group there), and we completed an Easy poll showing that out of 13 who filled out the poll, three scholars are still in lesson 4 and four in lesson 5.
+2.   What are your plans for this coming week?
+Tally up the scholars on sprint 2 walls. Our tracking spreadsheet is here. We found the following stats:
+20/63 scholars are on the sprint 2 wall but have not filled out the sprint 2 completion form, most likely because they are not done with lessons yet.
+15/63 scholars have submitted the sprint 2 completion form, most likely completed all lessons.
+Meet with more members this Friday July 23 to get updated stats.
+3.   Are you facing any challenges or blockers?
+28/63 scholars have NOT submitted the Sprint 2 completion forms yet.
+
+Day 36:
 1.  Yesterday I attended docker compose workshop by @badr.ibrahim. I finished AWS ML lesson 2.2
 2.  Today I completed the sprint 2 completion form, filled out the Study Buddy form, filled out the Blogathon form, and I finished AWS ML lesson 2.4. Posted my updates to My GitHub repo.
 3.  None.
