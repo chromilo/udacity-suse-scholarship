@@ -16,7 +16,7 @@ Day 36:
 - modify /boot/cmdline.txt to add cgroup_enable=cpuset cgroup_enable=memory cgroup_memory=1
 - reboot
 - Load version 0.9.1 as that is compatible with RPi 3+, by running "curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION=v0.9.1 sh"
-4.  None.
+3.  None.
 
 #st_canada
 1.  What did your Study Team work on or participate in last week? 
