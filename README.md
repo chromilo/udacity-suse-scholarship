@@ -10,6 +10,13 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 37:
+1.  Yesterday I finished AWS ML lesson 2.5. Spent some time troubleshooting golang alpine images that will run on my RPi 3. I also participated in a 2 hour Okta Professional Certification Exam Prep webinar. Received a $50 voucher good until September.
+2.  Today I purchased a Udemy course Okta from zero to hero course in preparation for exam. I also filled out form for a student-led initiative for next week. Posted my updates to My GitHub repo.
+3.  None.
+![image](https://user-images.githubusercontent.com/75153964/126847601-a402ebb3-8467-4167-9643-57315d3e6ee9.png)
+
+
 Day 36:
 1.  Yesterday I finished AWS ML lesson 2.4 and started lesson 3 exercises again but on Raspberry Pi 3.
 2.  Today I updated our #st_canada tracking spreadsheet. Fixed issue installing and running k3s on RPi. Posted my updates to My GitHub repo.
