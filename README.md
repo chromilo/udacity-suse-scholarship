@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 38:
+1.  Yesterday I met with @Barry.Pratt for our Study Buddy meetup. I finished lesson in Users for the Okta course on Udemy.
+2.  Today I continue on the Okta course. Posted my updates to My GitHub repo.
+3.  Still no help on finding correct docker image type for golang alpine app that will work on an RPi arm.
+
 Day 37:
 1.  Yesterday I finished AWS ML lesson 2.5. Spent some time troubleshooting golang alpine images that will run on my RPi 3. I also participated in a 2 hour Okta Professional Certification Exam Prep webinar. Received a $50 voucher good until September.
 2.  Today I purchased a Udemy course Okta from zero to hero course in preparation for exam. I also filled out form for a student-led initiative for next week. Posted my updates to My GitHub repo.
