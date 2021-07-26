@@ -13,7 +13,7 @@ For the study teams, we post using this format:
 
 Day 39:
 1.  Yesterday I finished lesson 3 fron the Okta course on Udemy.
-2.  Today I finished lesson on the Okta course. Posted my updates to My GitHub repo.
+2.  Today I finished lesson 9 from the Okta course. Posted my updates to My GitHub repo.
 3.  Still no help on finding correct docker image type for golang alpine app that will work on an RPi arm.
 
 Day 38:
