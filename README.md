@@ -10,6 +10,10 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 40:
+1.  Yesterday I finished lesson 11, skipping lesson 12 (python), finished lesson 13 of Okta Udemy course. I also took the free sample exam from the site. I started updating our tracking list to figure out who in #st_canada is done with Cloud native course by scouring through slack any updates from members.
+2.  Today I will book my Okta exam and continue studying. I submitted an EasyPoll to #st_canada channel to get a sense of who has finished the course so we can win the highly coveted Study Team Competition award for this coming Wednesday July 28. Posted my updates to my GitHub repo.
+3.  Still no help on finding correct docker image type for golang alpine app that will work on an RPi arm.
 
 Day 39:
 1.  Yesterday I finished lesson 3 fron the Okta course on Udemy.
