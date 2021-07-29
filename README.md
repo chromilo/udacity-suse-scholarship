@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 
 Day 41:
-1.  Yesterday I booked my Okta exam and lesson 11, skipped the Okta Udemy course. What a waste of $35 on a course, the trainer does not know how to teach. Instead I went through all the Okta materials and practiced on oktapreview.com tenant.
+1.  Yesterday I booked my Okta exam and lesson 11, skipped the Okta Udemy course. What a waste of $35 on a course, the trainer does not know how to teach. Instead of useless Udemy course I went through all the Okta materials and practiced on oktapreview.com tenant.
 2.  Today I counted all members who have not completed the course and on the worst case, there are 40/64 who still have not finished. Continued studying for my Okta exam. Posted my updates to my GitHub repo.
 3.  Got some help on a possible docker image type for golang alpine go-helloworld app on an RPi 3. Just need some time to try it out.
 
