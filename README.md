@@ -11,6 +11,14 @@ For the study teams, we post using this format:
 
 ---
 
+#reflect
+**1.  Looking back at your original motivation and goals, how did you do?**
+I did fairly well. I saved my original motivation and goals on my Github blog so I can refer back to it. I said that I was all over the place with my plans wanting to finish my Udacity/Bertelsmann AI Program Manager nanodegree, study for the AWS ML phase 1 challenge, get AWS Solutions Architect recertified, and get Okta Certified Professional certified before fall 2021 semester starts at Georgia Tech. I was able to get my AI Program Manager certificate and just passed my Okta Certified Professional exam tonight.
+**2.  Were you on track for what you expected and hoped for? (If not, what would you want to try next time to get there?)**
+It's already August next week and my classes at Georgia Tech start August 23, 2021 which leaves me with less that 3 weeks to finish the AWS ML phase 1 challenge and get my AWS Solutions Architect recertification. Slack definitely contributed to my procrastination and having too many tabs open on my browser. I'll try and have one app or tab open at one time to stay focused.
+**3.  What helped you succeed and stay motivated/succeed thus far? (Did anything surprise you about this process?)**
+Although Slack was my downfall, it was also my saving grace as I used it along with LinkedIn messenger to stay in touch with current and past Udacity scholar to stay motivated. Socializing my successes and/or failures on Slack kept me honest and accountable, which helped my complete 3 out of 5 things I wanted to complete at the start of this challenge.
+
 Day 41:
 1.  Yesterday I booked my Okta exam and lesson 11, skipped the Okta Udemy course. What a waste of $35 on a course, the trainer does not know how to teach. Instead of useless Udemy course I went through all the Okta materials and practiced on oktapreview.com tenant.
 2.  Today I counted all members who have not completed the course and on the worst case, there are 40/64 who still have not finished. Continued studying for my Okta exam. Posted my updates to my GitHub repo.
@@ -160,11 +168,11 @@ Day 23 (sprint 2):
 3.  Work is a little busy today.
   
 #reflect
-1. How are you doing so far in this course and community in relation to your original motivation?
+**1.  How are you doing so far in this course and community in relation to your original motivation?**
 Since the start, I have been all over the place, excited to drink in all these scholarships and certifications (AI Program Manager ND, AWS ML challenge, AWS recertification, Okta certification) before fall 2021 semester starts. Nothing has changed, I am still all over the place, still excitedly drinking in all the learnings.
-2. Are you on track/what you expected and hoped for? If not, what can you do to get there?
+**2.  Are you on track/what you expected and hoped for? If not, what can you do to get there?**
 Not where I wanted to be. Slack seems to contribute to my procrastination and don't know how to get around that. I need to do my own daily_scrum for the other items I am trying to complete outside of this foundations course but because I cannot post here, those are falling behind. With regards to this course, I am ahead of schedule.
-3. What has helped you succeed and stay motivated/succeed thus far?
+**3.  What has helped you succeed and stay motivated/succeed thus far?**
 My study team #st_canada has provided the hand-holding needed to get past demo exercises from lesson 3 and 4. Priceless to have such talented scholars there.
 
 Day 22 (sprint 2):
