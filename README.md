@@ -20,10 +20,10 @@ Day 42:
 I did fairly well. I saved my original motivation and goals on my Github blog so I can refer back to it. I said that I was all over the place with my plans wanting to finish my Udacity/Bertelsmann AI Program Manager nanodegree, study for the AWS ML phase 1 challenge, get AWS Solutions Architect recertified, and get Okta Certified Professional certified before fall 2021 semester starts at Georgia Tech. I was able to get my AI Program Manager certificate and just passed my Okta Certified Professional exam tonight.
 
 2.  Were you on track for what you expected and hoped for? (If not, what would you want to try next time to get there?)
-It's already August next week and my classes at Georgia Tech start August 23, 2021 which leaves me with less that 3 weeks to finish the AWS ML phase 1 challenge and get my AWS Solutions Architect recertification. Slack definitely contributed to my procrastination and having too many tabs open on my browser. I'll try and have one app or tab open at one time to stay focused.
+It's already August next week and my classes at Georgia Tech start August 23, 2021 which leaves me with less than 3 weeks to finish the AWS ML phase 1 challenge and get my AWS Solutions Architect recertification. Slack definitely contributed to my procrastination and having too many tabs open on my browser. I'll try and have one app or tab open at one time to stay focused.
 
 3.  What helped you succeed and stay motivated/succeed thus far? (Did anything surprise you about this process?)
-Nothing surprise me this time around as it is my second scholarship challenge. Although Slack was my downfall, it was also my saving grace as I used it along with LinkedIn messenger to stay in touch with current and past Udacity scholar to stay motivated. Socializing my successes and/or failures on Slack kept me honest and accountable, which helped me complete 3 out of 5 goals I wanted to complete at the start of this challenge.
+Nothing surprised me this time around as it is my second scholarship challenge. Although Slack was my downfall, it was also my saving grace as I used it along with LinkedIn messenger to stay in touch with current and past Udacity scholar to stay motivated. Socializing my successes and/or failures on Slack kept me honest and accountable, which helped me complete 3 out of 5 goals I wanted to complete at the start of this challenge.
 
 
 Day 41:
