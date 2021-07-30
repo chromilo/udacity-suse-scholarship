@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 Day 42:
 1.  Yesterday I studied for my Okta exam. I submitted the final tally of #st_canada members who completed the course.
-2.  Today I took the Okta Certified Professional exam and passed. I'll get the total breakdown via email soon but I believe I was very close to not passing. Hate DOMC (Discrete Option Multiple Choice) style of question type exams. I attended the end party Zoom call and posted my updates to my GitHub repo.
+2.  Today I took the Okta Certified Professional exam and passed. I'll get the total breakdown via email soon but I believe I was very close to not passing. Hate DOMC (Discrete Option Multiple Choice) style of question for exams. I attended the end party Zoom call and posted my updates to my GitHub repo.
 3.  Got some help on a possible docker image type for golang alpine go-helloworld app on an RPi 3. Just need some time to try it out.
 
 #reflect
