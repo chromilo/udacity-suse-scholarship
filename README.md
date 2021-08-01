@@ -12,11 +12,10 @@ For the study teams, we post using this format:
 ---
 Day 43:
 1.  Yesterday I received my Okta Certified Professional badge from Credly.
-https://www.credly.com/badges/f496e755-b3be-4534-abe3-b91f9dd16135/
 
 [![image](https://user-images.githubusercontent.com/75153964/127759621-6ace7aef-ad75-4093-a44c-014ecdf8d4c3.png)](https://www.credly.com/badges/f496e755-b3be-4534-abe3-b91f9dd16135)
 
-2.  Today I was a speaker at Conclave21 from 9:30am-10:30am Pacific where I covered AI for Robotics. Here is a recording, many thanks to @RohitBhardwaj and team for organizing Conclave21 https://sites.google.com/view/suse-conclave-21/. I also setup our final Study Buddy meetup with @Barry.Pratt who has now fully completed the course. Posted my updates to my GitHub repo.
+2.  Today I was a speaker at Conclave21 from 9:30am-10:30am Pacific where I covered AI for Robotics. Here is a recording, many thanks to @RohitBhardwaj and team for organizing [Conclave21](https://sites.google.com/view/suse-conclave-21/). I also setup our final Study Buddy meetup with @Barry.Pratt who has now fully completed the course. Posted my updates to my GitHub repo.
 4.  Got some help on a possible docker image type for golang alpine go-helloworld app on an RPi 3. Just need some time to try it out.
 
 Day 42:
