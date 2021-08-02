@@ -14,7 +14,7 @@ Day 44:
 1.  Yesterday I tried a few docker images that will run on Raspberry Pi 3. No luck. The pods on k3s keep erroring out and recycling. I create a MS Teams Together view of the #st_canada members who have profile headshots available. I also updated our final #st_canada meeting minutes document here.
 ![image](https://user-images.githubusercontent.com/75153964/127928646-81d631ae-8a0d-4ba6-b6b5-bf9c1ad5f631.png)
 
-2.  Today I tried [balenalib/raspberry-pi-alpine-golang:latest image](https://hub.docker.com/r/balenalib/raspberry-pi-alpine-golang) and that worked. The pods are running yay! Posted my updates to my GitHub repo.
+2.  Today I tried [balenalib/raspberry-pi-alpine-golang:latest image](https://hub.docker.com/r/balenalib/raspberry-pi-alpine-golang) and that worked. The pods are running yay! I must have tried over 5 different images before landing on this one. This isn't easy. Posted my updates to my GitHub repo.
 3.  I can't seem to access the go-helloworld app via http://192.168.0.1:6112 from my host computer. Trying to run it locally on the RPi via http://127.0.0.1:6112 is exteremly slow and I fear it might be resource constrained.
 
 ---
