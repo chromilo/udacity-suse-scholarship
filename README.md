@@ -11,9 +11,12 @@ For the study teams, we post using this format:
 
 ---
 Day 44:
-1.  Yesterday I received my Okta Certified Professional badge from Credly.
-2.  Today I was a speaker at Conclave21 from 9:30am-10:30am Pacific where I covered AI for Robotics. Here is a [recording](https://drive.google.com/file/d/1SPVcu-00Vkhv-4wyn4JVjAdkcmokiUqV/view), many thanks to @RohitBhardwaj and team for organizing [Conclave21](https://sites.google.com/view/suse-conclave-21/). I also setup our final Study Buddy meetup with @Barry.Pratt who has now fully completed the course. Posted my updates to my GitHub repo.
-3.  Got some help on a possible docker image type for golang alpine go-helloworld app on an RPi 3. Just need some time to try it out.
+1.  Yesterday I tried a few docker images that will run on Raspberry Pi 3. No luck. The pods on k3s keep erroring out and recycling. I create a MS Teams Together view of the #st_canada members who have profile headshots available. I also updated our final #st_canada meeting minutes document here.
+![image](https://user-images.githubusercontent.com/75153964/127928646-81d631ae-8a0d-4ba6-b6b5-bf9c1ad5f631.png)
+
+2.  Today I tried [balenalib/raspberry-pi-alpine-golang:latest image](https://hub.docker.com/r/balenalib/raspberry-pi-alpine-golang) and that worked. The pods are running yay! Posted my updates to my GitHub repo.
+3.  I can't seem to access the go-helloworld app via http://192.168.0.1:6112 from my host computer. Trying to run it locally on the RPi via http://127.0.0.1:6112 is exteremly slow and I fear it might be resource constrained.
+
 ---
 Day 43:
 1.  Yesterday I received my Okta Certified Professional badge from Credly.
