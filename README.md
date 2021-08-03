@@ -32,13 +32,13 @@ Day 42:
 3.  Got some help on a possible docker image type for golang alpine go-helloworld app on an RPi 3. Just need some time to try it out.
 
 #reflect
-1.  Looking back at your original motivation and goals, how did you do?
+1.  Looking back at your original motivation and goals, how did you do?  
 I did fairly well. I saved my original motivation and goals on my Github blog so I can refer back to it. I said that I was all over the place with my plans wanting to finish my Udacity/Bertelsmann AI Program Manager nanodegree, study for the AWS ML phase 1 challenge, get AWS Solutions Architect recertified, and get Okta Certified Professional certified before fall 2021 semester starts at Georgia Tech. I was able to get my AI Program Manager certificate and just passed my Okta Certified Professional exam tonight.
 
-2.  Were you on track for what you expected and hoped for? (If not, what would you want to try next time to get there?)
+2.  Were you on track for what you expected and hoped for? (If not, what would you want to try next time to get there?)  
 It's already August next week and my classes at Georgia Tech start August 23, 2021 which leaves me with less than 3 weeks to finish the AWS ML phase 1 challenge and get my AWS Solutions Architect recertification. Slack definitely contributed to my procrastination and having too many tabs open on my browser. I'll try and have one app or tab open at one time to stay focused.
 
-3.  What helped you succeed and stay motivated/succeed thus far? (Did anything surprise you about this process?)
+3.  What helped you succeed and stay motivated/succeed thus far? (Did anything surprise you about this process?)  
 Nothing surprised me this time around as it is my second scholarship challenge. Although Slack was my downfall, it was also my saving grace as I used it along with LinkedIn messenger to stay in touch with current and past Udacity scholar to stay motivated. Socializing my successes and/or failures on Slack kept me honest and accountable, which helped me complete 3 out of 5 goals I wanted to complete at the start of this challenge.
 ---
 Day 41:
@@ -64,7 +64,7 @@ Day 38:
 Day 37:
 1.  Yesterday I finished AWS ML lesson 2.5. Spent some time troubleshooting golang alpine images that will run on my RPi 3. I also participated in a 2 hour Okta Professional Certification Exam Prep webinar. Received a $50 voucher good until September.
 2.  Today I purchased a Udemy course Okta from zero to hero course in preparation for exam. I also filled out form for a student-led initiative for next week. Posted my updates to My GitHub repo.
-3.  None.
+3.  None.  
 ![image](https://user-images.githubusercontent.com/75153964/126847601-a402ebb3-8467-4167-9643-57315d3e6ee9.png)
 ---
 Day 36:
@@ -76,14 +76,14 @@ Day 36:
 3.  None.
 
 #st_canada
-1.  What did your Study Team work on or participate in last week? 
+1.  What did your Study Team work on or participate in last week?   
 Our study team met for our weekly session July 16 at 3:30pm Pacific. Meeting minutes are here. We participated in Study Jam over the weekend (I recognized a few from our group there), and we completed an Easy poll showing that out of 13 who filled out the poll, three scholars are still in lesson 4 and four in lesson 5.
-2.   What are your plans for this coming week?
+2.   What are your plans for this coming week?  
 Tally up the scholars on sprint 2 walls. Our tracking spreadsheet is here. We found the following stats:
 20/63 scholars are on the sprint 2 wall but have not filled out the sprint 2 completion form, most likely because they are not done with lessons yet.
 15/63 scholars have submitted the sprint 2 completion form, most likely completed all lessons.
 Meet with more members this Friday July 23 to get updated stats.
-3.   Are you facing any challenges or blockers?
+3.   Are you facing any challenges or blockers?  
 28/63 scholars have NOT submitted the Sprint 2 completion forms yet.
 ---
 Day 36:
@@ -98,16 +98,16 @@ Day 35:
 ---
 Day 34:
 1.  Yesterday I resubmitted my AI capstone project.
-2.  Today I graduated from my AI Program Manager nanodegree and received certificate that I worked hard to get close to 7 months. 
-![image](https://user-images.githubusercontent.com/75153964/126076980-3ceaa06d-f797-43cd-9ee8-fbf98fe2d30a.png)
+2.  Today I graduated from my AI Program Manager nanodegree and received certificate that I worked hard to get close to 7 months.   
+![image](https://user-images.githubusercontent.com/75153964/126076980-3ceaa06d-f797-43cd-9ee8-fbf98fe2d30a.png)  
 
 Attended some events for Study Jam 1.0. Co-host Bingo Baker event with @Rohit.Roy.Chowdhury. Host Jackbox game night later today July 17, 2021 from 10-11pm Pacific in the #wellness channel. 
 
-Bingo Baker
+Bingo Baker  
 
 ![image](https://user-images.githubusercontent.com/75153964/126076865-e92bc9b1-feaa-4a7d-96bd-9c5ced5cbf8d.png)
 
-Game Night
+Game Night  
 
 ![image](https://user-images.githubusercontent.com/75153964/126076882-967741df-758f-4095-b565-9caaced156fb.png)
 
@@ -176,11 +176,11 @@ Day 24 (sprint 2):
 3.  Slack is such a great place to slack off unfortunately for me. 
 
 #st_canada
-1. What did your Study Team work on or participate in last week?
+1. What did your Study Team work on or participate in last week?  
 Our study team met for our weekly session July 3 at 10:00am Pacific (rescheduled). Meeting minutes are here. A final poll was sent out asking for status on lessons. 
-2. What are your plans for this coming week? 
+2. What are your plans for this coming week?   
 This week we Updated the tracking spreadsheet matching team members to sprint 1 wall. We found that 17/52 did not fill out the sprint 1 commitment form; 14/35 have not filled in the sprint 1 completion form so they probably have not finished lesson 3; which means 21/35 or 60% have completed lesson 3.
-3. Are you facing any challenges or blockers? 
+3. Are you facing any challenges or blockers?   
 @James has issues doing the Docker exercise because his laptop PC doesn't support virtualization technology. @moor and @Raphael also said they had some issues but haven't heard back.
 ---
 Day 23 (sprint 2):
@@ -189,13 +189,13 @@ Day 23 (sprint 2):
 3.  Work is a little busy today.
   
 #reflect
-1. How are you doing so far in this course and community in relation to your original motivation?
+1. How are you doing so far in this course and community in relation to your original motivation?  
 Since the start, I have been all over the place, excited to drink in all these scholarships and certifications (AI Program Manager ND, AWS ML challenge, AWS recertification, Okta certification) before fall 2021 semester starts. Nothing has changed, I am still all over the place, still excitedly drinking in all the learnings.
 
-2. Are you on track/what you expected and hoped for? If not, what can you do to get there?
+2. Are you on track/what you expected and hoped for? If not, what can you do to get there?  
 Not where I wanted to be. Slack seems to contribute to my procrastination and don't know how to get around that. I need to do my own daily_scrum for the other items I am trying to complete outside of this foundations course but because I cannot post here, those are falling behind. With regards to this course, I am ahead of schedule.
 
-3. What has helped you succeed and stay motivated/succeed thus far?
+3. What has helped you succeed and stay motivated/succeed thus far?  
 My study team #st_canada has provided the hand-holding needed to get past demo exercises from lesson 3 and 4. Priceless to have such talented scholars there.
 ---
 Day 22 (sprint 2):
@@ -229,17 +229,12 @@ Day 17:
 3.  SUSE Cloud Application Platform is deprecated so what can I use instead for the upcoming exercise?
 
 #st_canada
-1. What did your Study Team work on or participate in last week?
-A member posted a quiz to complete a couple of questions for group to answer.
-A few members met on Friday June 25 to help with lesson 3 blocks.
-Easypoll finished on Monday indicating 7/17 completion of lesson 3.
-2. What are your plans for this coming week? 
-Meet again Friday July 2 at 3:30pm PST with members.
-Started new easypoll that ends Sunday. Resubmit study team competition form if poll improves on Sunday.
-Grab ideas from members via padlet or remind members of upcoming deadlines.
-3. Are you facing any challenges or blockers? 
-17/52 completed poll so need more interaction.
-Slack does not notify members when meetings come up. No access to @channel or @here.
+1. What did your Study Team work on or participate in last week?  
+A member posted a quiz to complete a couple of questions for group to answer. A few members met on Friday June 25 to help with lesson 3 blocks. Easypoll finished on Monday indicating 7/17 completion of lesson 3.  
+2. What are your plans for this coming week?   
+Meet again Friday July 2 at 3:30pm PST with members. Started new easypoll that ends Sunday. Resubmit study team competition form if poll improves on Sunday. Grab ideas from members via padlet or remind members of upcoming deadlines.  
+3. Are you facing any challenges or blockers?   
+17/52 completed poll so need more interaction. Slack does not notify members when meetings come up. No access to @channel or @here.  
 ---
 Day 16:
 1.  Yesterday I finished lesson 4.5.
@@ -276,8 +271,8 @@ Day 10:
 2.  Today I installed Kind cluster in Windows and K3s inside the VirtualBox VM running Linux, completing lesson 3.16. 
 3.  I couldn't connect to my Linux VM from my Windows 10 host to be able to test launching the apps from browser. I bridged the VM network adapter and can ping the VM guest from my Windows 10 host but I am not able to get to ports 6111 or 6112 ports. I got it to work with Kind cluster installed to my Windows 10 computer so I can move forward.
 
-#st_canada
-1. Our study team met for an icebreaker session June 18 at 3:30pm Pacific. Meeting minutes are here. A poll was sent out yesterday asking for status on lessons. This week a member started with weekly quiz challenges for the group.
+#st_canada  
+1. Our study team met for an icebreaker session June 18 at 3:30pm Pacific. Meeting minutes are here. A poll was sent out yesterday asking for status on lessons. This week a member started with weekly quiz challenges for the group.  
 2. Update the tracking spreadsheet with everyone's updates and finish lesson 2 for everyone this week. Continue to locate a guest speaker with cloud native experience.
 3. There are two scholars facing some issues with lesson 2 but haven't gotten any status back from them yet.
 ---
