@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 45:
+1.  Yesterday and the days before I was accepted into the full nanodegree. I also finished up to lesson 5 of the Techtrends project 1. 
+![image](https://user-images.githubusercontent.com/75153964/130725382-4b2ff37a-4447-4e67-9f24-e8f76b17e15f.png)  
+2.  Today I finished creating the Kubernetes declarative manifest yaml files for Techtrends lesson 6. Posted my updates to my GitHub repo.
+3.  Travelling to Victoria all day will cause some delays in my studying.
+---
 Day 44:
 1.  Yesterday I tried a few docker images that will run on Raspberry Pi 3. No luck. The pods on k3s keep erroring out and recycling. I create a MS Teams Together view of the #st_canada members who have profile headshots available. I also updated our final #st_canada meeting minutes document here.
 ![image](https://user-images.githubusercontent.com/75153964/127928646-81d631ae-8a0d-4ba6-b6b5-bf9c1ad5f631.png)
