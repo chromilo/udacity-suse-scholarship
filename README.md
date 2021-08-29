@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 46:
+1.  Yesterday and the days before, I took some time off in Victoria. 
+2.  Today I completed UdaConnect project lesson 1.5. Posted my updates to my GitHub repo.
+3.  I can't find the correct format for livenessProbe and readinessProbe in deploy.yaml file.
+
 Day 45:
 1.  Yesterday and the days before I was accepted into the full nanodegree. I also finished up to lesson 5 of the Techtrends project 1. 
 ![image](https://user-images.githubusercontent.com/75153964/130725382-4b2ff37a-4447-4e67-9f24-e8f76b17e15f.png)  
