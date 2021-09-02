@@ -13,6 +13,8 @@ For the study teams, we post using this format:
 Day 47:
 1.  Yesterday and the days before, I finished all of techtrends project except for the second standout suggestion on customizing docker tags with the GitHub actions. I was also able to get a courtesy drop of CS 6300 course which is a big relief. I now still have to pass CS 6290 however.
 2.  Today I figured out that I mispelled the tags variable in the GitHub actions workflow manifest. I submitted the techtrends project along with all 3 standout suggestions, and passed it successfully. Posted my updates to my GitHub repo.
+![image](https://user-images.githubusercontent.com/75153964/131765176-d9e66356-c332-4100-9a23-d6606aa582b4.png) 
+
 3.  Catching up on AWS MLE, AWS solutions architect exam, and GT CS 6290 lectures.
 
 Day 46:
