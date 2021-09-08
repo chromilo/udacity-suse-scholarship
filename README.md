@@ -10,18 +10,23 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 48:
+1.  Yesterday and the days before, I started lesson 3 (Message Passing).
+2.  Today I finished lesson 3.1.5. I also joined SUSE & Rancher community and signed up for welcome CNA Scholars meetup. Posted my updates to my GitHub repo.  
+3.  Just submitted proj0 for my CS 6290 course. That is hard, trying to work with branch predictors.
+---
 Day 47:
 1.  Yesterday and the days before, I finished all of techtrends project except for the second standout suggestion on customizing docker tags with the GitHub actions. I was also able to get a courtesy drop of CS 6300 course which is a big relief. I now still have to pass CS 6290 however.
-2.  Today I figured out that I mispelled the tags variable in the GitHub actions workflow manifest. I submitted the techtrends project along with all 3 standout suggestions, and passed it successfully. Posted my updates to my GitHub repo.
+2.  Today I figured out that I mispelled the tags variable in the GitHub actions workflow manifest. I submitted the techtrends project along with all 3 standout suggestions, and passed it successfully. Posted my updates to my GitHub repo.  
 ![image](https://user-images.githubusercontent.com/75153964/131765176-d9e66356-c332-4100-9a23-d6606aa582b4.png) 
 
 3.  Catching up on AWS MLE, AWS solutions architect exam, and GT CS 6290 lectures.
-
+---
 Day 46:
 1.  Yesterday and the days before, I took some time off in Victoria. 
 2.  Today I completed UdaConnect project lesson 1.5. Posted my updates to my GitHub repo.
 3.  I can't find the correct format for livenessProbe and readinessProbe in deploy.yaml file.
-
+---
 Day 45:
 1.  Yesterday and the days before I was accepted into the full nanodegree. I also finished up to lesson 5 of the Techtrends project 1. 
 ![image](https://user-images.githubusercontent.com/75153964/130725382-4b2ff37a-4447-4e67-9f24-e8f76b17e15f.png)  
