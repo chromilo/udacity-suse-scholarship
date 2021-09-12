@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 49:
+1.  Yesterday and the days before, I got to lessone 3.1.5.
+2.  Today I finished lesson 3.2.14 (Straggler Pattern with Flask Starter code). Posted my updates to my GitHub repo.  
+3.  Busy studying for AWS recertification, AWS MLE foundations lesson, and GT CS 6290 lesson.
+---
 Day 48:
 1.  Yesterday and the days before, I started lesson 3 (Message Passing).
 2.  Today I finished lesson 3.1.5. I also joined SUSE & Rancher community and signed up for welcome CNA Scholars meetup. Posted my updates to my GitHub repo.  
