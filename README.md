@@ -1,5 +1,5 @@
 # udacity-suse-scholarship
-These are my notes for the 2 month challenge on Cloud Native Application Architecture course. The format of the daily check-ins must follow this format:
+These are my notes for the 6 month SUSE scholarship for the Cloud Native Application Architecture. nanodegree The format of the daily check-ins must follow this format:
 1. What did I work on yesterday?
 2. What will I work on today?
 3. What issues are blocking my progress?
@@ -9,6 +9,11 @@ For the study teams, we post using this format:
 2. What are your plans for this coming week? 
 3. Are you facing any challenges or blockers? 
 
+---
+Day 50:
+1.  Yesterday and the days before, I got to lessone 3.2.14.
+2.  Today I finished lesson 3.3.4. Posted my updates to my GitHub repo.  
+3.  Busy studying for AWS recertification, AWS MLE foundations lesson, and GT CS 6290 lesson.
 ---
 Day 49:
 1.  Yesterday and the days before, I got to lessone 3.1.5.
