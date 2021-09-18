@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 51:
+1.  Yesterday and the days before, I got to lessone 3.3.4.
+2.  Today I finished lesson 4.3. Posted my updates to my GitHub repo.  
+3.  Busy studying for AWS MLE foundations lesson, and GT CS 6290 lesson.
+---
 Day 50:
 1.  Yesterday and the days before, I got to lessone 3.2.14.
 2.  Today I finished lesson 3.3.4. Posted my updates to my GitHub repo.  
