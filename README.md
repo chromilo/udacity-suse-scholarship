@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 52:
+1.  Yesterday and the days before, I got to lesson 4.3.
+2.  Today I finished lesson 4.6. I also finished Project:Udaconnect lesson 3. I was able to get all the environment and tools setup ready for project as I am running out of time. I had tons of issues running the seeding script as I run Windows 10 OS. I had to scp the script and db folders to the vm guest and run each line of the run_db_command.sh file separately as the $CT_DB_USERNAME and $CT_DB_NAME environment variables did not get recognized inside the shell script.Posted my updates to my GitHub repo. Got it working though. 
+3.  Two endpoints tested ok except for http://localhost:30001/api. 
+---
 Day 51:
 1.  Yesterday and the days before, I got to lesson 3.3.4.
 2.  Today I finished lesson 4.3. Posted my updates to my GitHub repo.  
