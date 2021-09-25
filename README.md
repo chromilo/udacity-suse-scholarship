@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 53:
+1.  Yesterday and the days before, I got to lesson 4.6 and finished Project:Udaconnect lesson 3.
+2.  Today I finished lesson 4.13. Running the REST API exercises are harder on Windows, I had to spin up create docker containers for client and server. Also trying to get started on Kafka exercise. Posted my updates to my GitHub repo. 
+3.  Spending a lot of time correcting some of the lesson mistakes Matthew G. mentioned. Also trying to spin up a separate linux vm for the Kafka and gRPC exercises.
+---
 Day 52:
 1.  Yesterday and the days before, I got to lesson 4.3.
 2.  Today I finished lesson 4.6. I also finished Project:Udaconnect lesson 3. I was able to get all the environment and tools setup ready for project as I am running out of time. I had tons of issues running the seeding script as I run Windows 10 OS. I had to scp the script and db folders to the vm guest and run each line of the run_db_command.sh file separately as the $CT_DB_USERNAME and $CT_DB_NAME environment variables did not get recognized inside the shell script. Got it working though. Posted my updates to my GitHub repo. 
