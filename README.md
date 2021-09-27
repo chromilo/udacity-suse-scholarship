@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 54:
+1.  Yesterday and the days before, I got to lesson 4.13.
+2.  Today I finished lesson 5.4. I was able to complete the gRPC and Kafka exercises/demos using docker-compose container and vagrant. I had issues getting the readers/writers in a container so ran those from within the vm. Had some issues with installing the grpcio tools initially and issues running the kafka create shell script as it was missing partitions and replication-factor parameters. Fixed those. Posted my updates to my GitHub repo. 
+3.  Three lessons behind on my CS 6290 course and one more lesson to go on AWS MLE challenge then assessment quiz. Also trying to get my PHP environment setup for an internship. 
+---
 Day 53:
 1.  Yesterday and the days before, I got to lesson 4.6 and finished Project:Udaconnect lesson 3.
 2.  Today I finished lesson 4.13. Running the REST API exercises are harder on Windows, I had to spin up create docker containers for client and server. Also trying to get started on Kafka exercise. Posted my updates to my GitHub repo. 
