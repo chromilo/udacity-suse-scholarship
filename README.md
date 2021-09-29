@@ -11,7 +11,7 @@ For the study teams, we post using this format:
 
 ---
 Day 55:
-1.  Yesterday and the days before, I got to lesson 4.13.
+1.  Yesterday and the days before, I got to lesson 5.4.
 2.  Today I finished all of lesson 5 and including all the lesson reviews for the Udaconnect project. Will start on the project now. I have posted below some of my answers to the lesson essay questions for lesson 5. Posted my updates to my GitHub repo. 
 3.  This is the last week to finish my other AWS ML Foundations challenge course, with last lesson estimated at 6 hours long. Omg.
 
