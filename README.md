@@ -12,6 +12,27 @@ For the study teams, we post using this format:
 ---
 Day 54:
 1.  Yesterday and the days before, I got to lesson 4.13.
+2.  Today I finished all of lesson 5 and including all the lesson reviews for the Udaconnect project. Will start on the project now. I have posted below some of my answers to the lesson essay questions for lesson 5. Posted my updates to my GitHub repo. 
+3.  This is the last week to finish my other AWS ML Foundations challenge course, with last lesson estimated at 6 hours long. Omg.
+
+How was your experience with integrating a Flask REST API with a Kafka queue? How might integrating a REST API with a Kafka queue be useful in large production systems?
+-I found it very confusing setting up a listener for the broker and a listener for the consumer service on port 9202. The flask server itself was on port 5000 and submitting a POST was a bit confusing because of the multiple listeners involved. For a large production environment, I can see that the zookeeper and Kafka services have to be run as containers on kubernetes cluster. The producer and consumers also have to run as separate pods.
+
+How might you find OpenAPI useful in your RESTful API implementations? When would it not make sense to use OpenAPI?
+-I think this would work well for python. I don't know what libraries are available to help with inline documentation using OpenAPI if I used another language. It is very helpful for those that observe this practice but many organizations will likely bypass documentation altogether for speed in delivery.
+
+Once the new endpoints are set, what other parts of the code will we need to modify?
+-The method names also had to be changed after duplicating the endpoint. I appended v2 to the method name. This technical debt needs to be revisited after however, by removing the old endpoint and at that point, also rename the method name removing v2 from it. This seems wrong somehow.
+
+Choose at least two of the strategies discussed in this lesson and describe how using those strategies would have helped you on an earlier project.
+-I was working on SIEM integration using Kafka beat as a consumer of event logs from various sources. I could have used json to format the output of logs stored in a database table. I could have also used what I learned on OpenAPI using Swagger to see if I could read the format of the syslog input that the kafka beat consumer is expecting from the log sources acting as producers.
+
+We discussed situations in which these strategies can be useful. Can you think of situations when these strategies would not be useful and would add unnecessary complexity to your projects?
+-The versioning of APIs would double the size of the code if it was made in the same code by duplicating the endpoints. This would entail duplicating the method and renaming the copied method name so that it was unique and didn't conflict with the original method. After go-live, it would be dangerous to have to go back and cleanup the changes to remove the original API methods and rename the new method. To me, it would make more sense to make a version change on the code itself and replace the API version directly. If there were issues, roll back to the previous version of the code.
+
+---
+Day 54:
+1.  Yesterday and the days before, I got to lesson 4.13.
 2.  Today I finished lesson 5.4. I was able to complete the gRPC and Kafka exercises/demos using docker-compose container and vagrant. I had issues getting the readers/writers in a container so ran those from within the vm. Had some issues with installing the grpcio tools initially and issues running the kafka create shell script as it was missing partitions and replication-factor parameters. Fixed those. Do you need to complete lesson 5 prior to starting on the udaconnect project? Posted my updates to my GitHub repo. 
 3.  Three lessons behind on my CS 6290 course and two more lesson to go on AWS MLE challenge then assessment quiz. Also trying to get my PHP environment setup for an internship. 
 ---
