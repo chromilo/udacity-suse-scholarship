@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+
+Day 56:
+1.  Yesterday and the days before, I finished the architecture diagram and started refactoring a branch.
+2.  Today I finished loading two pods for two refactored microservices. I have posted below some of my answers to the lesson essay questions for lesson 5. Posted my updates to my GitHub repo. 
+3.  Having problems with networking. I got vagrant working before to expose vm to my host via bridging but it doesn't work now.
+---
 Day 55:
 1.  Yesterday and the days before, I got to lesson 5.4.
 2.  Today I finished all of lesson 5 and including all the lesson reviews for the Udaconnect project. Will start on the project now. I have posted below some of my answers to the lesson essay questions for lesson 5. Posted my updates to my GitHub repo. 
