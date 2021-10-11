@@ -10,7 +10,14 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 57:
+1.  Yesterday and the days before, I loaded a bitnami kafka container.
+2.  Today I attended KubeCon conference, joining I was eliminated in the first stage of the KubeCon Cup battlesnake challenge. I didn't write enough code to avoid hitting other snake. My entry is the one called "Kubecon Cup 2021" in [this video](https://drive.google.com/file/d/1tYvnpSZUqDE-Dof68sFTdY1QHWy1xn1d/view). Posted my updates to my GitHub repo.   
+![image](https://user-images.githubusercontent.com/75153964/136861136-05d9a629-321a-4edf-929a-1ba9c637bff7.png)
 
+3.  Tons of confusion on pods and networking.
+
+---
 Day 56:
 1.  Yesterday and the days before, I finished the architecture diagram and started refactoring a branch.
 2.  Today I finished loading two pods for two refactored microservices. I have posted below some of my answers to the lesson essay questions for lesson 5. Posted my updates to my GitHub repo. 
