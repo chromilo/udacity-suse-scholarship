@@ -13,9 +13,22 @@ For the study teams, we post using this format:
 Day 57:
 1.  Yesterday and the days before, I loaded a bitnami kafka container.
 2.  Today I attended KubeCon conference, joining I was eliminated in the first stage of the KubeCon Cup battlesnake challenge. I didn't write enough code to avoid hitting other snake. My entry is the one called "Kubecon Cup 2021" in [this video](https://drive.google.com/file/d/1tYvnpSZUqDE-Dof68sFTdY1QHWy1xn1d/view). Posted my updates to my GitHub repo.   
-![image](https://user-images.githubusercontent.com/75153964/136861136-05d9a629-321a-4edf-929a-1ba9c637bff7.png)
+![image](https://user-images.githubusercontent.com/75153964/136861136-05d9a629-321a-4edf-929a-1ba9c637bff7.png)   
+![image](https://user-images.githubusercontent.com/75153964/136886410-43a05ea6-9122-4e12-a7b0-f3933fc03d14.png)
 
-3.  Tons of confusion on pods and networking.
+3.  Tons of confusion on pods and networking. This is the error I am getting trying to launch my grpc client. It can't seem to connect to grpc server on port 5005 with below error:   
+_Sending sample payload...
+Traceback (most recent call last):
+  File "producer.py", line 17, in <module>
+    response = stub.Get(udaconnect_pb2.Empty())
+  File "/usr/local/lib/python3.7/site-packages/grpc/_channel.py", line 946, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+  File "/usr/local/lib/python3.7/site-packages/grpc/_channel.py", line 849, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+status = StatusCode.UNAVAILABLE
+details = "failed to connect to all addresses"
+debug_error_string = "{"created":"@1634009125.663647500","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3158,"referenced_errors":[{"created":"@1634009125.663646400","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":147,"grpc_status":14}]}"_
 
 ---
 Day 56:
