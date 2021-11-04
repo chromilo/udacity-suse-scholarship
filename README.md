@@ -11,7 +11,9 @@ For the study teams, we post using this format:
 
 ---
 Day 58:
-1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay!
+1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay! I also placed top 8 in the Kubecon Cup 2021 battlesnake tournament and received $25 from CNCF.
+![image](https://user-images.githubusercontent.com/75153964/140273011-ebea5e21-a37d-48cd-ba40-5c1cb1c2fd8a.png)  
+
 2.  Today I completed the Observability prerequisites for the project. I am also now in lesson 4.1 of Tracing. Working to complete these TODO items below listed in README. Posted my updates to my GitHub repo.   
 Create a Basic Dashboard - Describe SLO/SLI - Creating SLI metrics - Create a Dashboard to measure our SLIs - Tracing our Flask App - Jaeger in Dashboards - Report Error -Creating SLIs and SLOs - Building KPIs for our plan - Final Dashboard
 3.  Busy with work and with Georgia Tech projects. 
