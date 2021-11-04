@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 58:
+1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay!
+2.  Today I completed the Observability prerequisites for the project. I am also now in lesson 4.1 of Tracing. Working to complete these TODO items below listed in README. Posted my updates to my GitHub repo.   
+Create a Basic Dashboard - Describe SLO/SLI - Creating SLI metrics - Create a Dashboard to measure our SLIs - Tracing our Flask App - Jaeger in Dashboards - Report Error -Creating SLIs and SLOs - Building KPIs for our plan - Final Dashboard
+3.  Busy with work and with Georgia Tech projects. 
+---
 Day 57:
 1.  Yesterday and the days before, I loaded a bitnami kafka container.
 2.  Today I attended KubeCon conference, joining I was eliminated in the first stage of the KubeCon Cup battlesnake challenge. I didn't write enough code to avoid hitting other snake. My entry is the one called "Kubecon Cup 2021" in [this video](https://drive.google.com/file/d/1tYvnpSZUqDE-Dof68sFTdY1QHWy1xn1d/view). Posted my updates to my GitHub repo.   
