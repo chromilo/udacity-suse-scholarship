@@ -17,7 +17,6 @@ Day 59:
 ![image](https://user-images.githubusercontent.com/75153964/143086343-afb6d5b2-4bac-4a30-9cbc-6b2f1da1ed21.png)  
 
 4.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
-5.  
 ---
 Day 58:
 1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay! I also placed top 8 in the Kubecon Cup 2021 battlesnake tournament and received $25 from CNCF.
