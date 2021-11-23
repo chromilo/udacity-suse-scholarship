@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 59:
+1.  Yesterday and the days before, I submitted my last Georgia Tech project with partner Luis. Many 2am sessions for this one.
+2.  Today I completed the Observability project and submitted it for review to graders. Keeping my fingers crossed. 
+3.  Busy with Georgia Tech final exam review. 
+---
 Day 58:
 1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay! I also placed top 8 in the Kubecon Cup 2021 battlesnake tournament and received $25 from CNCF.
 ![image](https://user-images.githubusercontent.com/75153964/140273011-ebea5e21-a37d-48cd-ba40-5c1cb1c2fd8a.png)  
