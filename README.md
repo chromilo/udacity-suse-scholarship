@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 Day 59:
 1.  Yesterday and the days before, I submitted my last Georgia Tech project with partner Luis. Many 2am sessions for this one.
-2.  Today I completed the Observability project and submitted it for review to graders. Keeping my fingers crossed. Started with final lesson on Microservices Security with only 9 days left before end of term on Dec 2. However, I see that we may have an automatic 4-week extension.
+2.  Today I completed the Observability project and submitted it for review to graders. Keeping my fingers crossed. Started with final lesson on Microservices Security with only 9 days left before end of term on Dec 2. However, I see that we may have an automatic 4-week extension. Finished lesson 1, downloaded the project artifacts for Hardened Micrososervices Environment, and finished reviewing the requirements for it.
 
 ![image](https://user-images.githubusercontent.com/75153964/143086343-afb6d5b2-4bac-4a30-9cbc-6b2f1da1ed21.png)  
 
