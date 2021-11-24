@@ -12,10 +12,9 @@ For the study teams, we post using this format:
 ---
 Day 59:
 1.  Yesterday and the days before, I submitted my last Georgia Tech project with partner Luis. Many 2am sessions for this one.
-2.  Today I completed the Observability project, submitted it twice for review by graders, and passed it on second try. Yay! 
-Also today, I finished lessons 1-3 including project requirements for the Hardenned Microservices Environment project. With only 8 days left before end of term on Dec 2, this will be tough. However, I see that we may have an automatic 4-week extension. Finished lesson 1, downloaded the project artifacts for Hardened Micrososervices Environment, and finished reviewing the requirements for it.
+2.  Today I completed the Observability project, submitted it twice for review by graders, and passed it on second try. Yay! Also today, I finished lessons 1-3 including reading about the project requirements for the Hardened Microservices Environment project. With only 8 days left before end of term on Dec 2, this will be tough. However, I see that we may have an automatic 4-week extension. Finished lesson 1, downloaded the project artifacts for Hardened Micrososervices Environment, and finished reviewing the requirements for it.  
 ![image](https://user-images.githubusercontent.com/75153964/143086343-afb6d5b2-4bac-4a30-9cbc-6b2f1da1ed21.png)  
-4.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
+3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
 ---
 Day 58:
 1.  Yesterday and the days before, I submitted my Udaconnect project and passed it after two attempts. Yay! I also placed top 8 in the Kubecon Cup 2021 battlesnake tournament and received $25 from CNCF.
