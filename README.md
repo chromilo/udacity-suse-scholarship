@@ -9,6 +9,12 @@ For the study teams, we post using this format:
 2. What are your plans for this coming week? 
 3. Are you facing any challenges or blockers? 
 
+
+---
+Day 60:
+1.  Yesterday and the days before, I completed and passed project 3. Started with lessons 1-3 of Hardened Microservices Environment.
+2.  Today I completed lessons 4 up to 5.25. Also finished design drawing, loaded RKE cluster, ran kube-bench out of box scan, ran docker-bench out of box scan, grype out of box and hardened scans. Seems easy so far. With 7 days left before end of term, anyone interested in partnering up for a last push on project 4? I'm available after 5pm Pacific for a one-hour session over Teams. 
+3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
 ---
 Day 59:
 1.  Yesterday and the days before, I submitted my last Georgia Tech project with partner Luis. Many 2am sessions for this one.
