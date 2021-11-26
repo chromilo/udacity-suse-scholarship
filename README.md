@@ -9,7 +9,11 @@ For the study teams, we post using this format:
 2. What are your plans for this coming week? 
 3. Are you facing any challenges or blockers? 
 
-
+---
+Day 61:
+1.  Yesterday and the days before, I completed lessons 4-5.25.
+2.  Today I completed up to lesson 6.12. I had issues installing the falco driver. Knowledge shows some options so had to redo my RKE cluster to try a few things. It seems a little bit harder to do this on Windows 10 host. I believe my issue is with running the "helm install --kubeconfig kube_config_cluster.yml falco falcosecurity/falco --set falco.grpc.enabled=true --set falco.grpcOutput.enabled=true" command from inside the SUSE Linux vm as it is trying to "ssh root@192.168.50.101" which is not a valid IP when I'm on the vm itself. Still working on it.
+3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
 ---
 Day 60:
 1.  Yesterday and the days before, I completed and passed project 3. Started with lessons 1-3 of Hardened Microservices Environment.
