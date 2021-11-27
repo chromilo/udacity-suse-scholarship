@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 Day 62:
 1.  Yesterday and the days before, I completed up to lessons 6.12.
-2.  Today I completed all the lessons for Hardened Microservices Environment. Enjoyed this lesson more than the past two.Instructor was easy to understand and demos were systematic. Progressing along with project, fixed my issue running helm from SUSE vm. Working on docker-bench again and hardening the environment. Going at it hard on my own and hoping to submit it this weekend so I can concentrate on my Georgia Tech lessons. Currentl behind 3 lessons there.
+2.  Today I completed all the lessons for Hardened Microservices Environment. Enjoyed this lesson more than the past two. Instructor was easy to understand and demos were systematic. Progressing along with project, fixed my issue running helm from SUSE vm. Working on docker-bench again and hardening the environment. Going at it hard on my own and hoping to submit it this weekend so I can concentrate on my Georgia Tech lessons starting Monday. Currentl behind 3 lessons there.
 3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
 ---
 Day 61:
