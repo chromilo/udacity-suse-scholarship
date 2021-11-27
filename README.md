@@ -10,6 +10,11 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 62:
+1.  Yesterday and the days before, I completed up to lessons 6.12.
+2.  Today I completed all the lessons for Hardened Microservices Environment. Enjoyed this lesson more than the past two.Instructor was easy to understand and demos were systematic. Progressing along with project, fixed my issue running helm from SUSE vm. Working on docker-bench again and hardening the environment. Going at it hard on my own and hoping to submit it this weekend so I can concentrate on my Georgia Tech lessons. Currentl behind 3 lessons there.
+3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
+---
 Day 61:
 1.  Yesterday and the days before, I completed lessons 4-5.25.
 2.  Today I completed up to lesson 6.12. I had issues installing the falco driver. Knowledge shows some options so had to redo my RKE cluster to try a few things. It seems a little bit harder to do this on Windows 10 host. I believe my issue is with running the "helm install --kubeconfig kube_config_cluster.yml falco falcosecurity/falco --set falco.grpc.enabled=true --set falco.grpcOutput.enabled=true" command from inside the SUSE Linux vm as it is trying to "ssh root@192.168.50.101" which is not a valid IP when I'm on the vm itself. Still working on it.
