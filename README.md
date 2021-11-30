@@ -10,6 +10,12 @@ For the study teams, we post using this format:
 3. Are you facing any challenges or blockers? 
 
 ---
+Day 63:
+1.  Yesterday and the days before, I submitted project 4 and passed on the second try. Yay.
+2.  Today I submitted some of the projects from career services. Had my resume, Github, and LinkedIn reviewed and graded. I also graduated today and received my certificate. So proud of this one.  
+![CNAA-certificate](https://user-images.githubusercontent.com/75153964/143979576-e09e10cc-76fb-4f95-9cde-fcef48079017.JPG)  
+3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
+---
 Day 62:
 1.  Yesterday and the days before, I completed up to lessons 6.12.
 2.  Today I completed all the lessons for Hardened Microservices Environment. Enjoyed this lesson more than the past two. Instructor was easy to understand and demos were systematic. Progressing along with project, fixed my issue running helm from SUSE vm. Working on docker-bench again and hardening the environment. Going at it hard on my own and hoping to submit it this weekend so I can concentrate on my Georgia Tech lessons starting Monday. Currentl behind 3 lessons there.
