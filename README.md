@@ -12,7 +12,7 @@ For the study teams, we post using this format:
 ---
 Day 63:
 1.  Yesterday and the days before, I submitted project 4 and passed on the second try. Yay.
-2.  Today I submitted some of the projects from career services. Had my resume, Github, and LinkedIn reviewed and graded. I also graduated today and received my certificate. So proud of this one.  
+2.  Today I submitted some of the projects from career services. Had my resume, Github, and LinkedIn reviewed and graded. I also graduated today and received my certificate. So proud of this one.  https://confirm.udacity.com/WCERFPLC
 ![CNAA-certificate](https://user-images.githubusercontent.com/75153964/143979576-e09e10cc-76fb-4f95-9cde-fcef48079017.JPG)  
 3.  Busy with Georgia Tech final exam review for actual exam on Dec 9.
 ---
